@@ -15,5 +15,5 @@ VRHMD + モーションコントローラ ( Oculus Rift, HTC Viveなど )
 # 作者
 [@pafuhana1213](https://twitter.com/pafuhana1213)
 
-#ライセンス
+# ライセンス
 [MIT](https://github.com/pafuhana1213/VTuberWithUE4/blob/master/LICENSE)
