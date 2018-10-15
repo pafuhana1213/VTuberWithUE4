@@ -9,6 +9,9 @@ VTuberをする上で基本的な機能を提供しています。
 # 対応しているUE4のバージョン
 UE4.20.3
 
+# 使い方
+https://github.com/pafuhana1213/VTuberWithUE4/wiki  
+
 # 必要なデバイス
 上半身の制御：  
 VRHMD + モーションコントローラ ( Oculus Rift, HTC Viveなど )  
