@@ -14,7 +14,7 @@ https://github.com/pafuhana1213/VTuberWithUE4/wiki
 
 # 必要なデバイス
 上半身の制御：  
-VRHMD + モーションコントローラ ( Oculus Rift, HTC Viveなど )  
+VRHMD + モーションコントローラ 2本 ( Oculus Rift, HTC Viveなど )  
 
 # 作者
 [@pafuhana1213](https://twitter.com/pafuhana1213)
