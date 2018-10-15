@@ -5,6 +5,7 @@ VTuberをする上で基本的な機能を提供しています。
   
 参考：https://www.slideshare.net/EpicGamesJapan/ue4vtuber
 ![ScreenShot0](https://github.com/pafuhana1213/Screenshot/blob/master/UE4WithVTuber0.jpg "")  
+![ScreenShot1](https://github.com/pafuhana1213/Screenshot/blob/master/UE4WithVTuber1.jpg "")  
 
 # 対応しているUE4のバージョン
 UE4.20.3
