@@ -3,6 +3,9 @@ VRHMDとモーションコントローラを使用して、UE4でVTuberをする
 IKを使った上半身の制御、表情の切り替え、配信用ソフトであるOBSで渡すためのグリーンバック機能など、  
 VTuberをする上で基本的な機能を提供しています。  
   
+しばらくの間は破壊的な変更があるかもしれません。  
+そのため、特に**BP_VTuberPawn**, **AnimBP_VTuber**はそのまま使わずに複製して使用することをおすすめします。
+  
 参考：https://www.slideshare.net/EpicGamesJapan/ue4vtuber
 ![ScreenShot0](https://github.com/pafuhana1213/Screenshot/blob/master/UE4WithVTuber0.jpg "")  
 ![ScreenShot1](https://github.com/pafuhana1213/Screenshot/blob/master/UE4WithVTuber1.jpg "")  
