@@ -29,8 +29,7 @@ https://www.slideshare.net/EpicGamesJapan/ue4vtuber
 
 # 作者
 [@pafuhana1213](https://twitter.com/pafuhana1213)  
-[@Tsubaki_VTuber](https://twitter.com/Tsubaki_VTuber)
-ご質問や要望などありましたら↑こちらへ
+[@Tsubaki_VTuber](https://twitter.com/Tsubaki_VTuber) ご質問や要望などありましたらこちらへ
 
 # ライセンス
 [MIT](https://github.com/pafuhana1213/VTuberWithUE4/blob/master/LICENSE)
