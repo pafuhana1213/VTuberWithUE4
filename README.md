@@ -8,8 +8,8 @@ VTuberをする上で基本的な機能を提供しています。
   
 しばらくの間は破壊的な変更があるかもしれません。  
 そのため、特に**BP_VTuberPawn**, **AnimBP_VTuber**はそのまま使わずに複製して使用することをおすすめします。
-  
-参考：https://www.slideshare.net/EpicGamesJapan/ue4vtuber
+
+# スクリーンショット
 ![ScreenShot0](https://github.com/pafuhana1213/Screenshot/blob/master/UE4WithVTuber0.jpg "")  
 ![ScreenShot1](https://github.com/pafuhana1213/Screenshot/blob/master/UE4WithVTuber1.jpg "")  
 
@@ -22,6 +22,10 @@ https://github.com/pafuhana1213/VTuberWithUE4/wiki
 # 必要なデバイス
 上半身の制御：  
 VRHMD + モーションコントローラ 2本 ( Oculus Rift, HTC Viveなど )  
+
+# 参考資料
+https://www.slideshare.net/EpicGamesJapan/ue4vtuber
+
 
 # 作者
 [@pafuhana1213](https://twitter.com/pafuhana1213)  
